@@ -2,3 +2,8 @@ netflix_ratings_1.csv
 combined_data_1.txt
 *.csv
 *.txt
+!requirements.txt
+processed/
+artifacts/
+__pycache__/
+*.pyc
